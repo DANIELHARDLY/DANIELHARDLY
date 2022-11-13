@@ -1,7 +1,7 @@
 
 
   Hi 👋, I'm GEORGE DANIEL THOMAS
-  A passionate Electronics Engineer
+  a passionate Electronics Engineer
 
 - 👀 I’m interested in Robotics,Electronics and coding.
 
