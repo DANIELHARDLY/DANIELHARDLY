@@ -1,15 +1,15 @@
 
 
-<h1>Hi 👋, I'm GEORGE DANIEL THOMAS</h1>
-<h3>A passionate Electronics Engineer</h3>
+  Hi 👋, I'm GEORGE DANIEL THOMAS
+  A passionate Electronics Engineer
 
 - 👀 I’m interested in Robotics,Electronics and coding.
 
-- 🔭 I’m currently working on **VISUAL INERTIAL ODOMETRY**
+- 🔭 I’m currently working on VISUAL INERTIAL ODOMETRY
 
-- 🌱 I’m currently learning **ROS && opencv**
+- 🌱 I’m currently learning ROS && opencv
 
-- 📫 How to reach me **georgedanielthomasat@gmail.com**
+- 📫 How to reach me georgedanielthomasat@gmail.com
 
 
 <p align="left">
