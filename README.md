@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm GEORGE DANIEL THOMAS</h1>
-<h3 align="center">A passionate Electronics Engineer</h3>
+<h1>Hi 👋, I'm GEORGE DANIEL THOMAS</h1>
+<h3>A passionate Electronics Engineer</h3>
 
 - 👀 I’m interested in Robotics,Electronics and coding.
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **georgedanielthomasat@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
