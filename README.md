@@ -1,23 +1,43 @@
+<h1>George Daniel Thomas</h1>
 
-
-  Hi 👋, I'm GEORGE DANIEL THOMAS
-  a passionate Electronics Engineer
-
-- 👀 I’m interested in Robotics,Electronics and coding.
-
-- 🔭 I’m currently working on VISUAL INERTIAL ODOMETRY
-
-- 🌱 I’m currently learning ROS && opencv
-
-- 📫 How to reach me georgedanielthomasat@gmail.com
-
-
-<p align="left">
+<p>
+MSc Data Science and Analytics student at <b>University College Cork</b> with prior experience in 
+software quality assurance and data validation for large-scale SaaS systems. Interested in 
+<b>Data Engineering, data pipelines, and data quality systems</b>.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-<!---
-DANIELHARDLY/DANIELHARDLY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>Education</h2>
+<ul>
+<li><b>MSc Data Science and Analytics</b> — University College Cork (2025 – Present)</li>
+<li><b>B.Tech Electronics & Communication</b> — Rajagiri School of Engineering & Technology (2019 – 2023) | CGPA: 8.16</li>
+</ul>
+
+<h2>Experience</h2>
+<p><b>Test Engineer — IBS Software</b> (Jul 2023 – Aug 2025)</p>
+<ul>
+<li>Worked on testing large-scale SaaS travel systems.</li>
+<li>Performed data validation for migrated legacy datasets.</li>
+<li>Developed automation scripts using Selenium and Playwright.</li>
+<li>Collaborated with development teams to identify and resolve defects.</li>
+</ul>
+
+<h2>Projects</h2>
+<ul>
+<li><b>AI Smart Glove for Sign Language</b> — ML system converting gestures to speech using Decision Trees.</li>
+<li><b>Indoor Mapping using Hexacopter</b> — 3D mapping using RTAB-Map, ROS, and sensor fusion.</li>
+</ul>
+
+<h2>Publication</h2>
+<p>
+Real Time Indoor Mapping Using Hexacopter — IEEE ICSCC 2023 <br>
+<b>Best Paper Award – Smart Embedded Systems</b>
+</p>
+
+<h2>Technical Skills</h2>
+<ul>
+<li><b>Programming:</b> Python, SQL, Java</li>
+<li><b>Data Tools:</b> Pandas, NumPy, Scikit-learn, Jupyter</li>
+<li><b>Tools:</b> Git, Selenium, Playwright, Jira</li>
+</ul>
+
+
