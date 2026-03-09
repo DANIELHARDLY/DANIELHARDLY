@@ -1,27 +1,36 @@
 <h1>George Daniel Thomas</h1>
 
 <p>
-MSc Data Science student at University College Cork with experience in 
-data validation and software testing. Interested in Data Engineering, 
-data pipelines, and scalable data systems.
+Engineer with a strong curiosity for technology and how systems interact with data. 
+My interests span across <b>Data Engineering, Machine Learning, Artificial Intelligence, 
+Electronics, IoT, and intelligent systems</b>. I enjoy understanding how raw data is 
+generated from the physical world and transformed into meaningful insights through 
+software and scalable data infrastructure.
 </p>
 
-<h2>Technical Interests</h2>
+<p>
+With a background in electronics and experience in software testing and data validation 
+for large-scale systems, I am particularly interested in building reliable data systems 
+that connect devices, applications, and analytics.
+</p>
+
+<h2>Areas of Interest</h2>
 <ul>
-<li>Data Engineering</li>
-<li>Data Analysis</li>
-<li>Machine Learning</li>
+<li>Data Engineering and Data Pipelines</li>
+<li>Machine Learning and Artificial Intelligence</li>
+<li>Internet of Things (IoT)</li>
+<li>Electronics and Embedded Systems</li>
+<li>Data Analysis and Intelligent Systems</li>
 </ul>
 
-<h2>Tech Stack</h2>
+<h2>Tools & Technologies</h2>
 <ul>
-<li>Python</li>
-<li>SQL</li>
-<li>Pandas / NumPy</li>
+<li>Python, SQL, Java</li>
+<li>Pandas, NumPy, Scikit-learn</li>
 <li>Git</li>
+<li>Selenium, Playwright</li>
 </ul>
 
-<h2>Contact</h2>
-<p>Email: georgedanielthomasat@gmail.com</p>
+
 
 
